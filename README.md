@@ -86,7 +86,7 @@ subject = "Sales summary for last month"
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3 License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
